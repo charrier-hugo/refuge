@@ -8,3 +8,25 @@
 	padding-top: 10px;
 	padding-bottom: 10px;
 }
+
+#content_search
+{
+	padding : 20px;	
+}
+
+#nav-animal
+{
+	margin-bottom: 5px;
+}
+
+.padding-left
+{
+	padding-left: 10px;
+}
+
+.max
+{
+	height: 100%;
+	width: 100%;
+}
+
